@@ -1,0 +1,182 @@
+﻿html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    
+}
+body {
+  
+}
+.container{
+    width: 1200px;
+    height: auto;
+    left: 50%;  
+    transform:translateX(-50%);
+    top: 50px;
+    padding: 0;
+    display: inline-flex;
+    
+
+}
+.link {
+    position: relative;
+    width: 1200px;
+    height: 50px;
+    background-color: black;
+    border-radius: 5px;
+    align-content: space-between;
+    padding-top: 17px;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    border: 1px solid white;
+    margin:auto;
+}
+.frmovie {
+    position: relative;
+    background-color: #1C1C1C;
+    width: 800px;
+    height: 500px;
+    border: 1px white solid;
+    margin-right: 10px;
+    
+    top: -40px;
+    
+}
+.avamovie {
+   
+    background-color: dimgrey;
+    width: 300px;
+    height: 400px;
+    margin-left: 15px;
+    border: 1px white solid;
+}
+.titlemovie {
+    margin: -400px 370px;
+    width :200px;
+    height:50px;
+    color: white;
+}
+.avamovie li {
+    
+    display: inline;
+    color: white;
+    font-size: 10px;
+    
+}
+#li1 a {
+    
+    background-color: green;
+    font-size: 20px;
+    margin-left: 0px;
+    padding: 10px 24px;
+     
+}
+#li2 a {
+    font-size: 20px;
+    background-color: darkred;
+    margin-left: 10px;
+    padding: 10px 24px;
+  
+}
+.avamovie ul {
+    margin: 320px -1px;
+    height: 50px;
+    width: auto;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    background-color: rgba(0,0,0,0.7);
+}
+.infmovie {
+    overflow: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    position: relative;
+    width: 410px;
+    height: 250px;
+    background-color: #222;
+    float: left;
+    margin: 410px 370px;
+    line-height: 26px;
+
+}
+.infmovie::-webkit-scrollbar {
+    width: 0 !important;
+    display: none;
+}
+dt {
+    color: #bbb;
+    font-size: 12px;
+    font-weight: 500;    
+}
+.rating{
+    position: absolute;
+    width: 400px;
+    margin: 700px -750px;
+    color: white;
+    height:20px;
+    display: inline-flex;
+    
+    
+}
+.rating h2{
+    margin-left: 20px;
+    margin-top: 2.5px
+}
+.list-movie {
+    background-color: deeppink;
+    width: 390px;
+    height: 500px;
+    position: relative;
+    background-color: #1C1C1C;
+    border: 1px solid white;
+
+}
+.movie{
+    position: relative;
+    background-color: #222;
+    width: 385px;
+    height:150px;
+    display: inline-flex;
+  
+   
+}
+    .movie img {
+        background-color: dimgrey;
+        width: 100px;
+        height: 149px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .movie dl {
+        position: relative;
+       
+    }
+.movie dt{
+    color: white;
+}
+.movie h1{
+    color: white;
+}
+.rating1{
+    height:30px;
+}
+.rating1 img{
+    margin: 0;
+    
+    margin-top: 5px;
+    background: none;
+    height: 24px;
+    width: 24px;
+}
+.rating1 h2{
+  
+    color: white;
+}
+#phimlienquan{
+    position: relative;
+    color:white;
+    
+}
+
