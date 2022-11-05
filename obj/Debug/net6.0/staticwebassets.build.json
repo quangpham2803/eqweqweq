@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jc1pvTscB0m2Gtr0l6Re+X2OhYYLVc/jieiyrYMXIYU=",
+  "Hash": "OqchfwoC6q5x1aoiB1WO587qZ2Tkgv6w8Wdt7WklRF8=",
   "Source": "hentaweb v2",
   "BasePath": "_content/hentaweb v2",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\hentaweb v2.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\login.css",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
       "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\site.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
@@ -68,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\Stream.css",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "css/Stream.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Stream.css"
+    },
+    {
       "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\style.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
@@ -83,23 +117,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
-    },
-    {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\StyleSheet.css",
-      "SourceId": "hentaweb v2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
-      "BasePath": "_content/hentaweb v2",
-      "RelativePath": "css/StyleSheet.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\watch.css",
@@ -185,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo1.png"
+    },
+    {
+      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\images\\VN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "images/VN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg"
     },
     {
       "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\js\\site.js",

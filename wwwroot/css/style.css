@@ -22,6 +22,7 @@ html{
     box-sizing: border-box;
 }
 body{
+  
     background-color: #020d18;
 }
 /* ==============REPONSIVE===============*/ 
@@ -114,7 +115,7 @@ body::-webkit-scrollbar{
     background-size: cover;
     background-position: top;
     z-index: 1700;
-    position: relative absolute;
+    position: relative;
 }
 .header__logo-link{
     text-decoration: none;
@@ -403,7 +404,7 @@ body::-webkit-scrollbar{
 
 .container {
     position: relative;
-    padding-top: 109px;
+    padding-top: 10px;
   }
   
   /* Hide the images by default */
