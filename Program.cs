@@ -1,3 +1,5 @@
+using hentaweb_v2;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -12,6 +14,10 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+var startup = new Startup(builder.Configuration);
+startup.ConfigureServices(builder.Services);
+startup.Configure(app, builder.Environment);
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

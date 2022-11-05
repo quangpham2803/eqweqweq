@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\hentaweb v2.csproj": {}
+    "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\hentaweb v2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\hentaweb v2.csproj": {
+    "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\hentaweb v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\hentaweb v2.csproj",
+        "projectUniqueName": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\hentaweb v2.csproj",
         "projectName": "hentaweb v2",
-        "projectPath": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\hentaweb v2.csproj",
-        "packagesPath": "C:\\Users\\lenha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\",
+        "projectPath": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\hentaweb v2.csproj",
+        "packagesPath": "C:\\Users\\thien\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lenha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thien\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,6 +43,36 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
