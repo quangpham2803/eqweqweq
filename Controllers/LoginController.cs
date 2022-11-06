@@ -19,10 +19,12 @@ namespace hentaweb_v2.Controllers
         {
             String useremail = form["useremail"];
             String userpass = form["userpass"];
-            var user = db.UserSystems.FromSqlRaw($"exec USP_LOGIN '{useremail}','{userpass}'").FirstOrDefault();
-            if (user != null)
+            var list = db.UserSystems.FromSqlRaw($"exec USP_LOGIN '{useremail}','{userpass}'").ToList();
+            if (list.Count >0)
             {
-                HttpContext.Session.SetString("UserID", user.UserName);
+                UserSystem user = list[0];
+                HttpContext.Session.SetInt32("UserID", user.UserId);
+                HttpContext.Session.SetInt32("UserLevel", user.UserLevel);
                 return RedirectToAction("Index", "Home");
             }
             return View();

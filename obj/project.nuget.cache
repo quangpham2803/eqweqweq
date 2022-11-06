@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1HM61D/+82dez/6z9bZrREE1neqkODD3GNWHpgC+3gQN/C9rzd1p7vS3t1JzgSWDFWmexaOE6qdSH9XFSBzW0Q==",
+  "dgSpecHash": "J2b3K9paYi7Z6RPC9WcPCfRWT0SDye71+hykekFGqQnRzGwcWG/PJ7ybOmOfk88qx3vBvnS/sfF4WsVmES+ZcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\hentaweb v2.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\thien\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\thien\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\thien\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\thien\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\thien\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\thien\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
