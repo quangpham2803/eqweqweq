@@ -21,7 +21,6 @@ namespace hentaweb_v2.Models
         public virtual DbSet<Episode> Episodes { get; set; } = null!;
         public virtual DbSet<Film> Films { get; set; } = null!;
         public virtual DbSet<Rating> Ratings { get; set; } = null!;
-        public virtual DbSet<Tesst> Tessts { get; set; } = null!;
         public virtual DbSet<Trailer> Trailers { get; set; } = null!;
         public virtual DbSet<UserSystem> UserSystems { get; set; } = null!;
 
@@ -190,27 +189,6 @@ namespace hentaweb_v2.Models
                     .HasForeignKey(d => d.UserUserId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FKRating436155");
-            });
-
-            modelBuilder.Entity<Tesst>(entity =>
-            {
-                entity.HasNoKey();
-
-                entity.ToTable("tesst");
-
-                entity.Property(e => e.Asda32df)
-                    .HasColumnType("date")
-                    .HasColumnName("asda32df");
-
-                entity.Property(e => e.Asdas)
-                    .HasMaxLength(10)
-                    .HasColumnName("asdas")
-                    .IsFixedLength();
-
-                entity.Property(e => e.Id)
-                    .HasMaxLength(10)
-                    .HasColumnName("id")
-                    .IsFixedLength();
             });
 
             modelBuilder.Entity<Trailer>(entity =>

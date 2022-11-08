@@ -1,4 +1,15 @@
 ﻿<!DOCTYPE html>
+@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    string username = "";
+    int userid = 0;
+    int userrole = 0;
+    if(HttpContextAccessor.HttpContext.Session.GetInt32("UserID")!=null){
+        userid =   (int) HttpContextAccessor.HttpContext.Session.GetInt32("UserID");
+        username = HttpContextAccessor.HttpContext.Session.GetString("UserName");
+    }
+}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,6 +68,7 @@
                             <li class="header__navbar-sub-item"><a href="">Học Đường</a></li>
                             <li class="header__navbar-sub-item"><a href="">Phiêu lưu</a></li>
                             <li class="header__navbar-sub-item"><a href="">Webdrama</a></li>
+
             </div>
             <div class="sub-list-wrap-2">
                 <li class="header__navbar-sub-item"><a href="">Võ Thuật</a></li>
@@ -127,7 +139,15 @@
             <li class="header__navbar-item"><a href="">Phim Sắp Chiếu</a></li>
             <li class="header__navbar-item"><a href="">TV Show</a></li>
             <li class="header__navbar-item"><a href="">Hoạt Hình - Anime</a></li>
-            <li class="header__navbar-item"><a asp-controller="Login" asp-action="Index">Đăng nhập</a></li>
+            @if(userid==0){
+                <li class="header__navbar-item"><a asp-controller="Login" asp-action="Index">Đăng nhập</a></li>
+            }
+            else
+            {
+                <li class="header__navbar-item"><a asp-controller="Login" asp-action="Index">@username</a></li>
+                <li class="nav-item"><a asp-controller="Home" asp-action="Logout"><img src="~/images/icons8_logout_100px.png" width="30" height="30"/></a></li>
+            }
+           
             </ul>
             <div class="navigation">
                 <input type="checkbox" class="navigation__checkbox" id="navi-toggle">

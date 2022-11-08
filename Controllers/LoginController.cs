@@ -24,6 +24,7 @@ namespace hentaweb_v2.Controllers
             {
                 UserSystem user = list[0];
                 HttpContext.Session.SetInt32("UserID", user.UserId);
+                HttpContext.Session.SetString("UserName", user.UserName);
                 HttpContext.Session.SetInt32("UserLevel", user.UserLevel);
                 return RedirectToAction("Index", "Home");
             }

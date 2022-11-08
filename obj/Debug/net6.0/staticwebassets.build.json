@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rrq/WlhfUDI9cX3f+R9epudh5El6wafy53bYVXVBods=",
+  "Hash": "RnjV3DRRc+uktr8HOMe10zIX/kUCUZjtde4Gcb/PKwg=",
   "Source": "hentaweb v2",
   "BasePath": "_content/hentaweb v2",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\images\\icons8_logout_100px.png",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "images/icons8_logout_100px.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons8_logout_100px.png"
     },
     {
       "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\images\\icons8_star_48px_3.png",
