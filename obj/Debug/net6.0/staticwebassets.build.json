@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RnjV3DRRc+uktr8HOMe10zIX/kUCUZjtde4Gcb/PKwg=",
+  "Hash": "GSGeIT+j3JvFkvUOj0nsG0+OUycnW6Qq6bCmovlccEk=",
   "Source": "hentaweb v2",
   "BasePath": "_content/hentaweb v2",
   "Mode": "Default",
@@ -1222,6 +1222,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\Video\\One Piece Tập 1 - Tôi Là Luffy! Tôi Nhất Định Sẽ Trở Thành Vua Hải Tặc!.mp4",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "Video/One Piece Tập 1 - Tôi Là Luffy! Tôi Nhất Định Sẽ Trở Thành Vua Hải Tặc!.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Video\\One Piece Tập 1 - Tôi Là Luffy! Tôi Nhất Định Sẽ Trở Thành Vua Hải Tặc!.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\Video\\One Piece Tập 2 - Tay Kiếm Tài Ba Xuất Hiện - Thợ Săn Hải Tặc Rorozonoa Zoro.mp4",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "Video/One Piece Tập 2 - Tay Kiếm Tài Ba Xuất Hiện - Thợ Săn Hải Tặc Rorozonoa Zoro.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Video\\One Piece Tập 2 - Tay Kiếm Tài Ba Xuất Hiện - Thợ Săn Hải Tặc Rorozonoa Zoro.mp4"
     }
   ]
 }
