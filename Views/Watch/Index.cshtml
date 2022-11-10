@@ -5,16 +5,33 @@
 @model hentaweb_v2.Models.WatchInfo
 <head>
     <link rel="stylesheet" href="~/css/watch.css">
+    <link rel="stylesheet" href="~/css/button.css">
 </head>
 <body>
-    <div class="link">Trang chủ\@Model.film.FilmName</div>
+    <div class="link">Trang chủ\ @Model.film.FilmName</div>
     <div class="container">
 <div class="frmovie">
     <div class="avamovie">
     <img src="@Model.film.FilmPoster" height="400" width="300" style="position: absolute"/>
     <ul class="list-button">
-                    <li id="li1"><a>Trailer</a></li>
-                    <li id="li2"><a>Xem phim</a></li>
+                    <li id="li1">
+                        <a href="#" class="animated-button1">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Trailer
+                        </a>
+                    </li>
+                    <li id="li2">
+                        <a  href="#" class="animated-button4 ">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Xem
+                        </a>
+                    </li>
      </ul> 
     </div>
     <div class="titlemovie">
@@ -61,9 +78,10 @@
     @foreach (Film item in Model.listFilmLike)
     {
                 <div class="movie">
-                    <img src="@item.FilmPoster"/>
+                    <img class="poster" src="@item.FilmPoster"/>
                     <dl>
-                        <h1>@item.FilmName</h1>
+                       <h2>@item.FilmName</h2>
+                     
                         <dt>Lượt xem: @item.FilmViewed</dt>
                         <div class="rating1">
                             <img src="~/images/icons8_star_48px_3.png" />
@@ -71,7 +89,6 @@
                             <img src="~/images/icons8_star_48px_3.png" />
                             <img src="~/images/icons8_star_48px_3.png" />
                             <img src="~/images/icons8_star_48px_3.png" />
-
                         </div>
                     </dl>
                 </div>
