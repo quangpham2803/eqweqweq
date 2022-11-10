@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OqchfwoC6q5x1aoiB1WO587qZ2Tkgv6w8Wdt7WklRF8=",
+  "Hash": "GSGeIT+j3JvFkvUOj0nsG0+OUycnW6Qq6bCmovlccEk=",
   "Source": "hentaweb v2",
   "BasePath": "_content/hentaweb v2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "hentaweb v2\\wwwroot",
       "Source": "hentaweb v2",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\hentaweb v2.styles.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\hentaweb v2.styles.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "hentaweb v2.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\hentaweb v2.styles.css"
+      "OriginalItemSpec": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\hentaweb v2.styles.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\hentaweb v2.bundle.scp.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\hentaweb v2.bundle.scp.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "hentaweb v2.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\hentaweb v2.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\hentaweb v2.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\css\\login.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\css\\site.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\Stream.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\css\\Stream.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "css/Stream.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Stream.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\css\\style.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\css\\watch.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\css\\watch.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "css/watch.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\watch.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\favicon.ico",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -153,10 +153,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\images\\icons8_star_48px_3.png",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\images\\icons8_logout_100px.png",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "images/icons8_logout_100px.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons8_logout_100px.png"
+    },
+    {
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\images\\icons8_star_48px_3.png",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "images/icons8_star_48px_3.png",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8_star_48px_3.png"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\images\\icons8_star_48px_4.png",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\images\\icons8_star_48px_4.png",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "images/icons8_star_48px_4.png",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8_star_48px_4.png"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\images\\logo1.png",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\images\\logo1.png",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "images/logo1.png",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo1.png"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\images\\VN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\images\\VN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "images/VN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\VN-en-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\js\\site.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "hentaweb v2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
       "BasePath": "_content/hentaweb v2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1205,6 +1222,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\Video\\One Piece Tập 1 - Tôi Là Luffy! Tôi Nhất Định Sẽ Trở Thành Vua Hải Tặc!.mp4",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "Video/One Piece Tập 1 - Tôi Là Luffy! Tôi Nhất Định Sẽ Trở Thành Vua Hải Tặc!.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Video\\One Piece Tập 1 - Tôi Là Luffy! Tôi Nhất Định Sẽ Trở Thành Vua Hải Tặc!.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\Video\\One Piece Tập 2 - Tay Kiếm Tài Ba Xuất Hiện - Thợ Săn Hải Tặc Rorozonoa Zoro.mp4",
+      "SourceId": "hentaweb v2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\wwwroot\\",
+      "BasePath": "_content/hentaweb v2",
+      "RelativePath": "Video/One Piece Tập 2 - Tay Kiếm Tài Ba Xuất Hiện - Thợ Săn Hải Tặc Rorozonoa Zoro.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Video\\One Piece Tập 2 - Tay Kiếm Tài Ba Xuất Hiện - Thợ Săn Hải Tặc Rorozonoa Zoro.mp4"
     }
   ]
 }

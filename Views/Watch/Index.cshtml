@@ -1,21 +1,24 @@
-﻿<html>
+﻿<!DOCTYPE html>
+@{
+    ViewData["Title"] = "Detail Film";
+}
+@model hentaweb_v2.Models.WatchInfo
 <head>
     <link rel="stylesheet" href="~/css/watch.css">
 </head>
 <body>
-    <div class="link">Trang chủ\ Phim Hàn Quốc\ Big Mouth</div>
+    <div class="link">Trang chủ\@Model.film.FilmName</div>
     <div class="container">
 <div class="frmovie">
     <div class="avamovie">
-    Ảnh phim
+    <img src="@Model.film.FilmPoster" height="400" width="300" style="position: absolute"/>
     <ul class="list-button">
                     <li id="li1"><a>Trailer</a></li>
-                    <li id="li2"><a>Watch</a></li>
+                    <li id="li2"><a>Xem phim</a></li>
      </ul> 
     </div>
     <div class="titlemovie">
-        <h1>Tên tiếng Việt</h1>
-        <h2>Tên tiếng Anh</h2>   
+        <h1>Tên phim : @Model.film.FilmName</h1>
     </div>
     <div class="infmovie">
             <dl class="">
@@ -24,16 +27,16 @@
                 <dt>Đạo diễn:</dt>
              
                 <dt>Thời lượng:</dt>
-             
-                <dt>Số tập:</dt>
+
+                <dt>Số tập: @Model.film.FilmCountEp</dt>
     
                 <dt>Tình trạng:</dt>
-           
-                <dt>Ngôn ngữ:</dt>
-               
-                <dt>Năm sản xuất:</dt>
-               
-                <dt>Quốc gia:</dt>
+
+                <dt>Ngôn ngữ: @Model.film.FilmArea</dt>
+
+                <dt>Năm sản xuất: @Model.film.FilmYear</dt>
+
+                <dt>Quốc gia: @Model.film.FilmArea</dt>
              
                 <dt>Thể loại:</dt>
                 <dt>Diễn viên:</dt>
@@ -55,21 +58,25 @@
 </div>
 <div class="list-movie">
     <h1 id="phimlienquan">PHIM LIÊN QUAN</h1>
-    <div class="movie">
-        <img />
-        <dl>
-            <h1>Big Mouth</h1>
-            <dt>Lượt xem: </dt>
-                <div class="rating1">
-                    <img src="~/images/icons8_star_48px_3.png" />
-                    <img src="~/images/icons8_star_48px_3.png" />
-                    <img src="~/images/icons8_star_48px_3.png" />
-                    <img src="~/images/icons8_star_48px_3.png" />
-                    <img src="~/images/icons8_star_48px_3.png" />
-                  
+    @foreach (Film item in Model.listFilmLike)
+    {
+                <div class="movie">
+                    <img src="@item.FilmPoster"/>
+                    <dl>
+                        <h1>@item.FilmName</h1>
+                        <dt>Lượt xem: @item.FilmViewed</dt>
+                        <div class="rating1">
+                            <img src="~/images/icons8_star_48px_3.png" />
+                            <img src="~/images/icons8_star_48px_3.png" />
+                            <img src="~/images/icons8_star_48px_3.png" />
+                            <img src="~/images/icons8_star_48px_3.png" />
+                            <img src="~/images/icons8_star_48px_3.png" />
+
+                        </div>
+                    </dl>
                 </div>
-        </dl>
-    </div>
+    }
+    
 </div>
     </div>
     <div id="fb-root"></div>
