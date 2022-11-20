@@ -33,7 +33,7 @@
             app.MapRazorPages();
             app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Streaming}/{action=Index}/{id?}");
+    pattern: "{controller=Admin}/{action=Index}/{id?}");
             app.Run();
             
         }
