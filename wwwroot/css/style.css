@@ -196,24 +196,18 @@ body::-webkit-scrollbar{
     border-radius: 3px;
 }
 /*========HEADER NAVBAR ===========*/
-@media screen and (max-width: 600px) {
-    .header__navbar-item {
-        display: none;
+
+
+
+    .header__navbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        height: 40px;
+        background-color: rgba(0,0,0,0.7);
+        position: relative;
     }
-    .navigation__button{
-        
-        display: inline-block;
-    }
-}
-.header__navbar{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    height: 40px;
-    background-color: rgba(0,0,0,0.7);
-    position: relative;
-}
 .header__navbar-list{
     display: flex;
     align-items: center;
@@ -233,6 +227,9 @@ body::-webkit-scrollbar{
     font-weight: 400;
     display: block;
 }
+
+
+
 .header__navbar-item > a:hover{
     background-color: var(--white-color);
     color: var(--black-color);
@@ -297,7 +294,7 @@ body::-webkit-scrollbar{
 }
 
 .navigation__background {
-    background-color: var(--white-color);
+    background-color: #0f544b;
     /* border-radius: 50%; */
     width: 6rem;
     height: 6rem;
@@ -330,15 +327,14 @@ body::-webkit-scrollbar{
   .navigation__checkbox:checked ~ .navigation__nav {
     width: 100%;
     opacity: 1; 
-    left: 0;
+    left: -40%;
     }
-    
+
 .navigation__icon {
     position: relative;
     margin-top: 2rem;
-    di
-    
 }
+
     .navigation__icon, .navigation__icon::before, .navigation__icon::after {
       width: 3.5rem;
       height: .3rem;
@@ -779,16 +775,15 @@ body::-webkit-scrollbar{
  /*========footer==========*/
  .footer{
      background-image: url(https://dongphym.net/images/dp/ramt7.jpg);
-
      width: 100%;
-     height: 304px;
-     display:flex;
+     height: auto;
+     display: flex;
      justify-content: space-between;
      align-items: center;
      position: relative;
      flex-wrap: wrap;
      padding: 0 40px;
-     margin-top: 300px;
+     margin-top: 100px;
  }
  .par{
     font-size: 1.4rem;
@@ -844,3 +839,40 @@ body::-webkit-scrollbar{
 .footer1-right a:hover{
     color: #8b9831;
 }
+
+@media screen and (max-width: 600px) {
+
+    .header__navbar-list{
+        display: none;
+    }
+    .navigation__checkbox:checked ~.header__navbar-list {
+
+        background-color: red;
+    }
+    .navigation__checkbox:checked ~ .navigation__nav .header__navbar-list {
+        display: block;
+        height: 10px;
+    }
+    .mySlides{
+        height: 240px;
+        width: 500px;
+    }
+        .mySlides img {
+            height: 240px;
+            width: 500px;
+        }
+
+ 
+}
+.navigation__checkbox:checked ~ .navigation__nav .header__navbar-list {
+    display: block;
+
+}
+.navigation__checkbox:checked ~ .navigation__nav .header__navbar-sub-list {
+    margin-left: 150px;
+    top: 0px;
+}
+.login{
+    margin-bottom: 15px;
+}
+

@@ -29,7 +29,7 @@ namespace hentaweb_v2.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Data Source=DESKTOP-5P237D1\\SQLEXPRESS;Initial Catalog=hentaweb;User ID=sa;Password=1705");
+                optionsBuilder.UseSqlServer("Data Source=DESKTOP-VQ79J9P;Initial Catalog=hentaweb;Persist Security Info=True;User ID=sa;Password=sa");
             }
         }
 

@@ -135,16 +135,20 @@
             <li class="header__navbar-item"><a href="">Phim Sắp Chiếu</a></li>
             <li class="header__navbar-item"><a href="">TV Show</a></li>
             <li class="header__navbar-item"><a href="">Hoạt Hình - Anime</a></li>
-            @if(userid==0){
-                <li class="header__navbar-item"><a asp-controller="Login" asp-action="Index">Đăng nhập</a></li>
-            }
-            else
-            {
-                <li class="header__navbar-item"><a asp-controller="Login" asp-action="Index">@username</a></li>
-                <li class="nav-item"><a asp-controller="Home" asp-action="Logout"><img src="~/images/icons8_logout_100px.png" width="30" height="30"/></a></li>
-            }
-           
+      
             </ul>
+        <div class="login">
+                @if (userid == 0)
+                {
+                <li class="header__navbar-item"><a asp-controller="Login" asp-action="Index">Đăng nhập</a></li>
+                }
+                else
+                {
+                <li class="header__navbar-item"><a asp-controller="Login" asp-action="Index">@username</a></li>
+                <li class="nav-item"><a asp-controller="Home" asp-action="Logout"><img src="~/images/icons8_logout_100px.png" width="30" height="30" /></a></li>
+                }
+        </div>
+
             <div class="navigation">
                 <input type="checkbox" class="navigation__checkbox" id="navi-toggle">
                 <label for="navi-toggle" class="navigation__button">
@@ -155,34 +159,80 @@
                 </div>
 
                 <div class="navigation__nav">
-                    <ul class="navigation__list">
-                        <li class="navigation__item"><a href="#" class="navigation__link">About us</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our Skills</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our courses</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Testimonials</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Enroll form</a></li>
-                    </ul>
-                    <ul class="navigation__list">
-                        <li class="navigation__item"><a href="#" class="navigation__link">About us</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our Skills</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our courses</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Testimonials</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Enroll form</a></li>
-                    </ul>
-                    <ul class="navigation__list">
-                        <li class="navigation__item"><a href="#" class="navigation__link">About us</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our Skills</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our courses</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Testimonials</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Enroll form</a></li>
-                    </ul>
-                    <ul class="navigation__list">
-                        <li class="navigation__item"><a href="#" class="navigation__link">About us</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our Skills</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Our courses</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Testimonials</a></li>
-                        <li class="navigation__item"><a href="#" class="navigation__link">Enroll form</a></li>
-                    </ul>
+                <ul class="header__navbar-list">
+                    <li class="header__navbar-item">
+                        <a href="">
+                            Thể Loại
+                            <i class="fa fa-caret-down"></i>
+                        </a>
+                        <ul class="header__navbar-sub-list">
+                            <div class="sub-list-wrap-1">
+                            <li class="header__navbar-sub-item"><a href="">Tình cảm - lãng mạn</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Hài Hước</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Học Đường</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Phiêu lưu</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Webdrama</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Võ Thuật</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Gia Đình</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Giải Trí</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Thần Thoại</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Đam Mỹ - Bách Hợp</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Cổ trang</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Chiến Tranh</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Hình Sự</a></li>
+                            <li class="header__navbar-sub-item"><a href="">Tâm Lý</a></li>
+
+            </div>
+        
+            </ul>
+            </li>
+            <li class="header__navbar-item">
+                <a href="">
+                    Quốc Gia
+                    <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="header__navbar-sub-list">
+                    <div class="sub-list-wrap-1">
+                    <li class="header__navbar-sub-item"><a href="">Hàn Quốc</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Trung Quốc</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Ấn Độ</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Nhật Bản</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Mỹ</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Philipin</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Thái Lan</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Việt Nam</a></li>
+                    <li class="header__navbar-sub-item"><a href="">Âu Mỹ</a></li>
+
+        </div>
+       
+        </ul>
+        </li>
+        <li class="header__navbar-item">
+            <a href="">
+                Phim Bộ
+                <i class="fa fa-caret-down"></i>
+            </a>
+            <ul class="header__navbar-sub-list">
+                <div class="sub-list-wrap-1">
+                <li class="header__navbar-sub-item"><a href="">Hàn Quốc</a></li>
+                <li class="header__navbar-sub-item"><a href="">Trung Quốc</a></li>
+                <li class="header__navbar-sub-item"><a href="">Ấn Độ</a></li>
+                <li class="header__navbar-sub-item"><a href="">Tất Cả</a></li>
+                <li class="header__navbar-sub-item"><a href="">Nhật Bản</a></li>
+                <li class="header__navbar-sub-item"><a href="">Mỹ</a></li>
+                <li class="header__navbar-sub-item"><a href="">Philipin</a></li>
+                <li class="header__navbar-sub-item"><a href="">Thái Lan</a></li>
+                <li class="header__navbar-sub-item"><a href="">Việt Nam</a></li>
+                <li class="header__navbar-sub-item"><a href="">Âu Mỹ</a></li>
+
+                </div>
+      
+            </ul>
+        </li>
+        <li class="header__navbar-item"><a href="">Phim Chiếu Rạp</a></li>
+        <li class="header__navbar-item"><a href="">Phim Sắp Chiếu</a></li>
+        <li class="header__navbar-item"><a href="">TV Show</a></li>
+        <li class="header__navbar-item"><a href="">Hoạt Hình - Anime</a></li>
                 </div>
             </div>
             </div>

@@ -2481,23 +2481,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thien\\.nuget\\packages\\": {},
+    "C:\\Users\\lenha\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\hentaweb v2.csproj",
+      "projectUniqueName": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\hentaweb v2.csproj",
       "projectName": "hentaweb v2",
-      "projectPath": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\hentaweb v2.csproj",
-      "packagesPath": "C:\\Users\\thien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thien\\Documents\\GitHub\\hentawebv2\\obj\\",
+      "projectPath": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\hentaweb v2.csproj",
+      "packagesPath": "C:\\Users\\lenha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenha\\source\\repos\\hentaweb v2\\hentaweb v2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\thien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lenha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2576,7 +2576,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

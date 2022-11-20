@@ -1,8 +1,10 @@
-﻿<!DOCTYPE html>
+﻿<html>
+<!DOCTYPE html>
 @{
     ViewData["Title"] = "Detail Film";
 }
 @model hentaweb_v2.Models.WatchInfo
+
 <head>
     <link rel="stylesheet" href="~/css/watch.css">
     <link rel="stylesheet" href="~/css/button.css">
@@ -95,10 +97,14 @@
     }
     
 </div>
+       
     </div>
-    <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v15.0" nonce="mxSGj4TR"></script>
-    <div class="fb-comments"  style="background-color:white; margin-top: 100px;" data-href="http://localhost/Home/" data-width="1200" data-numposts="5"></div>
+   
+    <div class="fb">
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v15.0" nonce="mxSGj4TR"></script>
+        <div class="fb-comments" style="background-color:white; margin-top: 100px;position:relative;" data-href="http://localhost/Home/" data-width="1200" data-numposts="5"></div>
+    </div>
 </body>
 
 </html>
